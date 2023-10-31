@@ -241,6 +241,5 @@ Thank you for your contributions to making this repository a valuable resource f
 1. add books and lecture notes
 2. add github repos & code
 3. add solver/software list
-4. add ML 4 Opt and learning to Opt resources
-5. add short description
-6. better fomatting
+4. add short description
+5. better fomatting
