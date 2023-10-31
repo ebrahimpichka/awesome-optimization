@@ -136,9 +136,7 @@ Local and global optimization. Unconstrained and constrained optimization. Solut
 
 
 
-## **Books and lecture notes**
-
-### Books
+## **Books and Lecture notes**
 
 **Convex Optimization:**
 - *Convex Optimization* by Boyd and Vandenberghe - [PDF](https://web.stanford.edu/~boyd/cvxbook/)
