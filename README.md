@@ -135,16 +135,19 @@ Local and global optimization. Unconstrained and constrained optimization. Solut
 - [**CMU Robotic Exploration Lab: Optimal Control 2022**](https://www.youtube.com/playlist?list=PLZnJoM76RM6Iaf59ICcU9-DzztGZvK_52)
 
 
----
 
 ## **Books and lecture notes**
 
----
-
-## **Other resources**
 
 
----
+## **Other**
+
+### Tools and libraries
+
+### Repositories
+
+
+
 
 ## **Contribution Guidelines**
 
