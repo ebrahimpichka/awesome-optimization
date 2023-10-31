@@ -88,8 +88,13 @@ Continuation of Convex Optimization I. Subgradient, cutting-plane, and ellipsoid
     
 - [**Optimization Techniques/Operation Research Playlist**](https://www.youtube.com/playlist?list=PLLtQL9wSL16ioUvHckGCkoWq_CIvyUI0p) by MathPod Channel
 
+- **Operations Research I & II** by Dedy Suryadi
+    - [OR I (YouTube)](https://www.youtube.com/@coverCell/playlists?view=50&shelf_id=2)
+    - [OR II (YouTube)](https://www.youtube.com/@coverCell/playlists?view=50&shelf_id=1)
+
 
 ### Constraint Programming
+
 - [**An Introduction To Constraint Programming**](https://www.youtube.com/watch?v=1FJy-ubE7UE) - Jacob Allen
 
 - [**CPAIOR 2020 Master Class: Constraint Programming**](https://www.youtube.com/watch?v=lmy1ddn4cyw)
@@ -150,3 +155,12 @@ We welcome contributions to this repository. If you have a course or resource th
 
 Thank you for your contributions to making this repository a valuable resource for optimization enthusiasts in the academic community!
 
+
+### TODO
+
+1. add books and lecture notes
+2. add github repos & code
+3. add solver/software list
+4. add ML 4 Opt and learning to Opt resources
+5. add short description
+6. better fomatting
