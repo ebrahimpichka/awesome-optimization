@@ -181,7 +181,6 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 - [**JuMP**](https://jump.dev/) - Open source modeling language for **Julia**.
 - [**Pyomo**](http://www.pyomo.org/) - Open source modeling library for **Python**.
 - [**PuLP**](https://coin-or.github.io/pulp/) - Open source modeling library for **Python**.
-(https://github.com/coin-or)
 - [**Scipy Optimize**](https://docs.scipy.org/doc/scipy/tutorial/optimize.html)
 
 
