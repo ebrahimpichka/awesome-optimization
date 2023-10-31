@@ -5,7 +5,7 @@ Welcome to the "Awesome Optimization Courses" repository! This is a curated list
 This list tries to cover topics on discrete and combinatorial optimization, operations research, linear and nonlinear programming, integer programming, constraint programming, convex optimization, continuous optimization, or unconstrained optimization, you'll find valuable resources here to enhance your understanding of these subjects.
 
 ## Table of Contents
-1. [**Video Lectures**](#video-lectures)
+1. [**Video Lectures and Courses**](#video-lectures-and-courses)
     1. [Convex Optimization](#convex-optimization)
     2. [Discrete, Combinatorial, and Integer Optimization](#discrete-combinatorial-and-integer-optimization)
     3. [Operations Research](#operations-research)
@@ -17,7 +17,7 @@ This list tries to cover topics on discrete and combinatorial optimization, oper
 4. [**Contribution Guidelines**](#contribution-guidelines)
 
 
-## **Video Lectures**
+## **Video Lectures and Courses**
 
 ### Convex Optimization
 
