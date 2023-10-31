@@ -138,14 +138,93 @@ Local and global optimization. Unconstrained and constrained optimization. Solut
 
 ## **Books and lecture notes**
 
+### Books
 
+**Convex Optimization:**
+- *Convex Optimization* by Boyd and Vandenberghe - [PDF](https://web.stanford.edu/~boyd/cvxbook/)
+- *Convex Optimization Theory* by Dimitri P. Bertsekas - [PDF](https://web.mit.edu/dimitrib/www/Convex_Theory_Entire_Book.pdf)
+
+**OR:**
+
+- *Operations Research An Introduction* by Hamdy A. Taha - [Pearson](https://www.pearson.com/en-us/subject-catalog/p/operations-research-an-introduction/P200000003221)
+- *Introduction to Operations Research* by Frederick Hillier and Gerald Lieberman - [McGraw Hill](https://www.mheducation.com/highered/product/introduction-operations-research-hillier-lieberman/M9781259872990.html)
+- *Julia Programming for Operations Research* by Changhyun Kwon - [PDF](https://juliabook.chkwon.net/book) - [code](https://github.com/chkwon/jpor_codes)
+- *Mathematical Programming and Operations Research: Modeling, Algorithms, and Complexity. Examples in Python and Julia*. Edited by Robert Hildebrand - [PDF](https://github.com/open-optimization/open-optimization-or-book/blob/master/MathematicalProgrammingandOperationsResearch.pdf)
+- *A First Course in Linear Optimization* by Jon Lee - [PDF](https://www.solvermax.com/downloads/lee-linearoptimization4.pdf)
+- *Decomposition Techniques in Mathematical Programming* by Conejo , Castillo , Mínguez , and García-Bertrand - [Springer](https://link.springer.com/book/10.1007/3-540-27686-6)
+- *Algorithms for Optimization* by Mykel J. Kochenderfer and Tim A. Wheeler - [PDF](https://algorithmsbook.com/optimization/files/optimization.pdf)
+- *Model Building in Mathematical Programming* - Introductory modeling book by H. Paul Williams - [Wiley]((https://www.wiley.com/en-ie/Model+Building+in+Mathematical+Programming,+5th+Edition-p-9781118443330))
+
+**CP:**
+
+- *Handbook of Constraint Programming* by F. Rossi, Peter van Beek and Toby Walsh - [Amazon](https://www.amazon.com/dp/0444527265)
+
+**Combinatorial Optimization:**
+- *Combinatorial Optimization: Algorithms and Complexity* by by Christos H. Papadimitriou and Kenneth Steiglitz - [Amazon](https://www.amazon.com/Combinatorial-Optimization-Algorithms-Complexity-Computer-ebook/dp/B00C8UQZAO)
+- *Combinatorial Optimization: Theory and Algorithms* by Bernhard Korte and Jens Vygen - [Springer](https://link.springer.com/book/10.1007/978-3-662-56039-6)
+- *A First Course in Combinatorial Optimization* by Jon Lee - [Amazon](https://www.amazon.com/Combinatorial-Optimization-Cambridge-Applied-Mathematics/dp/0521010128)
+
+**Stochastic Optimization:**
+
+- *Lectures on Stochastic Programming Modeling and Theory* (SIAM) - by  Shapiro, Dentcheva, and Ruszczynski - [PDF](https://bpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/4/1470/files/2021/03/SPbook.pdf)
+- *Introductory Lectures on Stochastic Optimization* by John C. Duchi - [PDF](https://web.stanford.edu/~jduchi/PCMIConvex/Duchi16.pdf)
+
+Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/books.htm)
 
 ## **Other**
 
-### Tools and libraries
+### Tools and Libraries
+
+- [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools)
+- [**COIN-OR**](https://www.coin-or.org/) | [repository](https://github.com/coin-or/)
+- [**MiniZinc**](https://www.minizinc.org/) - Constraint modeling language.
+- [**GAMS**](https://www.gams.com/) - High-level modeling system, no constraint programming.
+- [**AMPL**](https://www.ampl.com/) - Algebraic modeling language, both linear/integer and constraint programming.
+- [**JuMP**](https://jump.dev/) - Open source modeling language for Julia, mostly linear/integer programming.
+- [**Pyomo**](http://www.pyomo.org/) - Open source modeling library for Python, only linear/integer programming.
+- [**PuLP**](https://coin-or.github.io/pulp/) - Open source modeling library for Python, only linear/integer programming.
+(https://github.com/coin-or)
+- [**Scipy Optimize**](https://docs.scipy.org/doc/scipy/tutorial/optimize.html)
+
+
+**Licensed/Commercial Solvers**
+- [CPLEX](https://www.ibm.com/analytics/cplex-optimizer) - IBM
+- [Gurobi](https://www.gurobi.com/) - Gurobi
+- [FICO Xpress](https://www.fico.com/en/products/fico-xpress-optimization) - FICO
+- [LocalSolver](https://www.localsolver.com/) - LocalSolver
+- [SCIP](https://www.scipopt.org/) - Zuse Institute Berlin
+- [Knitro](https://www.artelys.com/solvers/knitro/)  - Artelys
+- [Mosek](https://www.mosek.com/) - Mosek
+- [Concorde](http://www.math.uwaterloo.ca/tsp/concorde.html) - UWaterloo
 
 ### Repositories
+- [Open Optimization](https://github.com/open-optimization):\
+a platform for sharing and collaborating on open educational resources for optimization related courses.
+- [Introduction to Linear Programming with Python](https://github.com/benalexkeen/Introduction-to-linear-programming):\
+Introduction to Linear Programming with Python
+- [cvxpy](https://github.com/cvxpy/cvxpy):\
+A Python-embedded modeling language for convex optimization problems.
+- [MIPLearn](https://github.com/ANL-CEEESA/MIPLearn):\
+Framework for solving discrete optimization problems using a combination of Mixed-Integer Linear Programming (MIP) and Machine Learning (ML)
+- [or-gym](https://github.com/hubbs5/or-gym):\
+nvironments for OR and RL Research
+- [ecole](https://github.com/ds4dm/ecole):\
+Extensible Combinatorial Optimization Learning Environments
+- [pyconcorde](https://github.com/jvkersch/pyconcorde):\
+Python wrapper around the Concorde TSP solver
+- [BOTorch](https://github.com/pytorch/botorch):\
+Bayesian optimization in PyTorch
+- [EvoTorch](https://github.com/nnaisense/evotorch):\
+Advanced evolutionary computation library built directly on top of PyTorch, created at NNAISENSE.
+- [TorchOpt](https://github.com/metaopt/torchopt):\
+efficient library for differentiable optimization built upon PyTorch.
 
+
+### Conferences
+- [**CPAIOR**](https://cpaior.org/) - Integration of Constraint Programming, Artificial Intelligence, and Operations Research.
+- [**CP Conference**](https://www.a4cp.org/events/cp-conference-series) - Principles and Practice of Constraint Programming.
+- [**INFORMS**](https://www.informs.org/) - Institute for Operations Research and the Management Sciences.
+- [**CORS**](https://www.cors.ca/?q=content/cors-annual-conferences) - Canadian Operational Research Society
 
 
 
