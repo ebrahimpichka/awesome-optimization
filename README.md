@@ -176,11 +176,11 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 - [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools)
 - [**COIN-OR**](https://www.coin-or.org/) | [repository](https://github.com/coin-or/)
 - [**MiniZinc**](https://www.minizinc.org/) - Constraint modeling language.
-- [**GAMS**](https://www.gams.com/) - High-level modeling system, no constraint programming.
+- [**GAMS**](https://www.gams.com/) - High-level modeling system.
 - [**AMPL**](https://www.ampl.com/) - Algebraic modeling language, both linear/integer and constraint programming.
-- [**JuMP**](https://jump.dev/) - Open source modeling language for Julia, mostly linear/integer programming.
-- [**Pyomo**](http://www.pyomo.org/) - Open source modeling library for Python, only linear/integer programming.
-- [**PuLP**](https://coin-or.github.io/pulp/) - Open source modeling library for Python, only linear/integer programming.
+- [**JuMP**](https://jump.dev/) - Open source modeling language for **Julia**.
+- [**Pyomo**](http://www.pyomo.org/) - Open source modeling library for **Python**.
+- [**PuLP**](https://coin-or.github.io/pulp/) - Open source modeling library for **Python**.
 (https://github.com/coin-or)
 - [**Scipy Optimize**](https://docs.scipy.org/doc/scipy/tutorial/optimize.html)
 
