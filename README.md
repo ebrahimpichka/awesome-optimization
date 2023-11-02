@@ -183,6 +183,7 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 - [**PuLP**](https://coin-or.github.io/pulp/) - Open source modeling library for **Python**.
 - [**Scipy Optimize**](https://docs.scipy.org/doc/scipy/tutorial/optimize.html)
 
+### Solvers
 
 **Licensed/Commercial Solvers**
 - [CPLEX](https://www.ibm.com/analytics/cplex-optimizer) - IBM
@@ -199,6 +200,9 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 - [HiGHS](https://highs.dev/) - High Performance Software for Linear Optimization
 - [lp_solve](http://lpsolve.sourceforge.net/) - (Mixed Integer) Linear Programming solver
 - [SCIP](https://www.scipopt.org/) - Solving Constraint Integer Programs
+
+**Benchmarks**
+- [Hans Mittelmann's Benchmarks](https://plato.asu.edu/bench.html)
 
 ### Repositories
 - [Open Optimization](https://github.com/open-optimization):\
