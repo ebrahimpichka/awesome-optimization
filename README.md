@@ -189,10 +189,16 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 - [Gurobi](https://www.gurobi.com/) - Gurobi
 - [FICO Xpress](https://www.fico.com/en/products/fico-xpress-optimization) - FICO
 - [LocalSolver](https://www.localsolver.com/) - LocalSolver
-- [SCIP](https://www.scipopt.org/) - Zuse Institute Berlin
 - [Knitro](https://www.artelys.com/solvers/knitro/)  - Artelys
 - [Mosek](https://www.mosek.com/) - Mosek
 - [Concorde](http://www.math.uwaterloo.ca/tsp/concorde.html) - UWaterloo
+
+**Free Solvers**
+- [CBC](https://projects.coin-or.org/Cbc) - COIN-OR Branch and Cut
+- [GLPK](https://www.gnu.org/software/glpk/) - GNU Linear Programming Kit
+- [HiGHS](https://highs.dev/) - High Performance Software for Linear Optimization
+- [lp_solve](http://lpsolve.sourceforge.net/) - (Mixed Integer) Linear Programming solver
+- [SCIP](https://www.scipopt.org/) - Solving Constraint Integer Programs
 
 ### Repositories
 - [Open Optimization](https://github.com/open-optimization):\
