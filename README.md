@@ -13,8 +13,20 @@ This list tries to cover topics on discrete and combinatorial optimization, oper
     5. [Continuous Optimization](#continuous-optimization)
     6. [Stochastic Optimization and Control](#stochastic-optimization-and-control)
 2. [**Books and Lecture Notes**](#books-and-lecture-notes)
-3. [**Other resources**](#other-resources)
-4. [**Contribution Guidelines**](#contribution-guidelines)
+    1. [Convex Optimization](#convex-optimization)
+    1. [Operations Research](#operations-research)
+    1. [Constraint Programming](#constraint-programming)
+    1. [Combinatorial Optimization](#combinatorial-optimization)
+    1. [Stochastic Optimization](#stochastic-optimization)
+3. [**Solvers, Tools, and Libraries**](#solvers-tools-and-libraries)
+    1. [Licensed/Commercial Solvers](#licensed-commercial-solvers)
+    2. [Free Solvers](#free-solvers)
+    3. [Tools and Libraries](#tools-and-libraries)
+4. [**Other Resources**](#other-resources)
+    1. [Repositories](#repositories)
+    2. [Conferences](#conferences)    
+5. [**Contribution Guidelines**](#contribution-guidelines)
+
 
 
 ## **Video Lectures and Courses**
@@ -138,11 +150,11 @@ Local and global optimization. Unconstrained and constrained optimization. Solut
 
 ## **Books and Lecture notes**
 
-**Convex Optimization:**
+### **Convex Optimization**
 - *Convex Optimization* by Boyd and Vandenberghe - [PDF](https://web.stanford.edu/~boyd/cvxbook/)
 - *Convex Optimization Theory* by Dimitri P. Bertsekas - [PDF](https://web.mit.edu/dimitrib/www/Convex_Theory_Entire_Book.pdf)
 
-**OR:**
+### **Operations Research**
 
 - *Operations Research An Introduction* by Hamdy A. Taha - [Pearson](https://www.pearson.com/en-us/subject-catalog/p/operations-research-an-introduction/P200000003221)
 - *Introduction to Operations Research* by Frederick Hillier and Gerald Lieberman - [McGraw Hill](https://www.mheducation.com/highered/product/introduction-operations-research-hillier-lieberman/M9781259872990.html)
@@ -153,25 +165,42 @@ Local and global optimization. Unconstrained and constrained optimization. Solut
 - *Algorithms for Optimization* by Mykel J. Kochenderfer and Tim A. Wheeler - [PDF](https://algorithmsbook.com/optimization/files/optimization.pdf)
 - *Model Building in Mathematical Programming* - Introductory modeling book by H. Paul Williams - [Wiley]((https://www.wiley.com/en-ie/Model+Building+in+Mathematical+Programming,+5th+Edition-p-9781118443330))
 
-**CP:**
+### **Constraint Programming**
 
 - *Handbook of Constraint Programming* by F. Rossi, Peter van Beek and Toby Walsh - [Amazon](https://www.amazon.com/dp/0444527265)
 
-**Combinatorial Optimization:**
+### **Combinatorial Optimization**
 - *Combinatorial Optimization: Algorithms and Complexity* by by Christos H. Papadimitriou and Kenneth Steiglitz - [Amazon](https://www.amazon.com/Combinatorial-Optimization-Algorithms-Complexity-Computer-ebook/dp/B00C8UQZAO)
 - *Combinatorial Optimization: Theory and Algorithms* by Bernhard Korte and Jens Vygen - [Springer](https://link.springer.com/book/10.1007/978-3-662-56039-6)
 - *A First Course in Combinatorial Optimization* by Jon Lee - [Amazon](https://www.amazon.com/Combinatorial-Optimization-Cambridge-Applied-Mathematics/dp/0521010128)
 
-**Stochastic Optimization:**
+### **Stochastic Optimization**
 
 - *Lectures on Stochastic Programming Modeling and Theory* (SIAM) - by  Shapiro, Dentcheva, and Ruszczynski - [PDF](https://bpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/4/1470/files/2021/03/SPbook.pdf)
 - *Introductory Lectures on Stochastic Optimization* by John C. Duchi - [PDF](https://web.stanford.edu/~jduchi/PCMIConvex/Duchi16.pdf)
 
 Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/books.htm)
 
-## **Other**
 
-### Tools and Libraries
+## Solvers, Tools, and Libraries
+
+### **Licensed/Commercial Solvers**
+- [CPLEX](https://www.ibm.com/analytics/cplex-optimizer) - IBM
+- [Gurobi](https://www.gurobi.com/) - Gurobi
+- [FICO Xpress](https://www.fico.com/en/products/fico-xpress-optimization) - FICO
+- [LocalSolver](https://www.localsolver.com/) - LocalSolver
+- [Knitro](https://www.artelys.com/solvers/knitro/)  - Artelys
+- [Mosek](https://www.mosek.com/) - Mosek
+- [Concorde](http://www.math.uwaterloo.ca/tsp/concorde.html) - UWaterloo
+
+### **Free Solvers**
+- [CBC](https://projects.coin-or.org/Cbc) - COIN-OR Branch and Cut
+- [GLPK](https://www.gnu.org/software/glpk/) - GNU Linear Programming Kit
+- [HiGHS](https://highs.dev/) - High Performance Software for Linear Optimization
+- [lp_solve](http://lpsolve.sourceforge.net/) - (Mixed Integer) Linear Programming solver
+- [SCIP](https://www.scipopt.org/) - Solving Constraint Integer Programs
+
+### **Tools and Libraries**
 
 - [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools)
 - [**COIN-OR**](https://www.coin-or.org/) | [repository](https://github.com/coin-or/)
@@ -185,21 +214,8 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Solvers
 
-**Licensed/Commercial Solvers**
-- [CPLEX](https://www.ibm.com/analytics/cplex-optimizer) - IBM
-- [Gurobi](https://www.gurobi.com/) - Gurobi
-- [FICO Xpress](https://www.fico.com/en/products/fico-xpress-optimization) - FICO
-- [LocalSolver](https://www.localsolver.com/) - LocalSolver
-- [Knitro](https://www.artelys.com/solvers/knitro/)  - Artelys
-- [Mosek](https://www.mosek.com/) - Mosek
-- [Concorde](http://www.math.uwaterloo.ca/tsp/concorde.html) - UWaterloo
 
-**Free Solvers**
-- [CBC](https://projects.coin-or.org/Cbc) - COIN-OR Branch and Cut
-- [GLPK](https://www.gnu.org/software/glpk/) - GNU Linear Programming Kit
-- [HiGHS](https://highs.dev/) - High Performance Software for Linear Optimization
-- [lp_solve](http://lpsolve.sourceforge.net/) - (Mixed Integer) Linear Programming solver
-- [SCIP](https://www.scipopt.org/) - Solving Constraint Integer Programs
+## **Other Resources**
 
 **Benchmarks**
 - [Hans Mittelmann's Benchmarks](https://plato.asu.edu/bench.html)
@@ -247,8 +263,14 @@ Thank you for your contributions to making this repository a valuable resource f
 
 ### TODO
 
-1. add books and lecture notes
-2. add github repos & code
-3. add solver/software list
-4. add short description
-5. better fomatting
+1. **add missing topics** *
+    - numerical optimization/methods
+    - bayesian optimization
+    - meta-heuristics
+2. add books and lecture notes
+    - open access books (at least one for each topic)
+3. add github repos
+4. complete solver/software list
+5. add short description
+6. better fomatting
+    - tables instead of bullets
