@@ -19,7 +19,7 @@ This list tries to cover topics on discrete and combinatorial optimization, oper
     1. [Combinatorial Optimization](#combinatorial-optimization)
     1. [Stochastic Optimization](#stochastic-optimization)
 3. [**Solvers, Tools, and Libraries**](#solvers-tools-and-libraries)
-    1. [Licensed/Commercial Solvers](#licensed-commercial-solvers)
+    1. [Licensed/Commercial Solvers](#licensedcommercial-solvers)
     2. [Free Solvers](#free-solvers)
     3. [Tools and Libraries](#tools-and-libraries)
 4. [**Other Resources**](#other-resources)
@@ -181,10 +181,12 @@ Local and global optimization. Unconstrained and constrained optimization. Solut
 
 Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/books.htm)
 
-
 ## Solvers, Tools, and Libraries
 
-### **Licensed/Commercial Solvers**
+### **Solvers**
+
+#### **Licensed/Commercial Solvers**
+
 - [CPLEX](https://www.ibm.com/analytics/cplex-optimizer) - IBM
 - [Gurobi](https://www.gurobi.com/) - Gurobi
 - [FICO Xpress](https://www.fico.com/en/products/fico-xpress-optimization) - FICO
@@ -193,12 +195,17 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 - [Mosek](https://www.mosek.com/) - Mosek
 - [Concorde](http://www.math.uwaterloo.ca/tsp/concorde.html) - UWaterloo
 
-### **Free Solvers**
+#### **Free Solvers**
+
 - [CBC](https://projects.coin-or.org/Cbc) - COIN-OR Branch and Cut
 - [GLPK](https://www.gnu.org/software/glpk/) - GNU Linear Programming Kit
 - [HiGHS](https://highs.dev/) - High Performance Software for Linear Optimization
 - [lp_solve](http://lpsolve.sourceforge.net/) - (Mixed Integer) Linear Programming solver
 - [SCIP](https://www.scipopt.org/) - Solving Constraint Integer Programs
+
+#### **Benchmarks**
+
+- [Hans Mittelmann's Benchmarks](https://plato.asu.edu/bench.html)
 
 ### **Tools and Libraries**
 
@@ -211,8 +218,6 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 - [**Pyomo**](http://www.pyomo.org/) - Open source modeling library for **Python**.
 - [**PuLP**](https://coin-or.github.io/pulp/) - Open source modeling library for **Python**.
 - [**Scipy Optimize**](https://docs.scipy.org/doc/scipy/tutorial/optimize.html)
-
-
 
 ## **Other Resources**
 
