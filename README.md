@@ -19,7 +19,7 @@ This list tries to cover topics on discrete and combinatorial optimization, oper
     1. [Combinatorial Optimization](#combinatorial-optimization)
     1. [Stochastic Optimization](#stochastic-optimization)
 3. [**Solvers, Tools, and Libraries**](#solvers-tools-and-libraries)
-    1. [Licensed/Commercial Solvers](#licensed-commercial-solvers)
+    1. [Licensed/Commercial Solvers](#licensedcommercial-solvers)
     2. [Free Solvers](#free-solvers)
     3. [Tools and Libraries](#tools-and-libraries)
 4. [**Other Resources**](#other-resources)
