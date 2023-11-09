@@ -154,6 +154,10 @@ Local and global optimization. Unconstrained and constrained optimization. Solut
 - *Convex Optimization* by Boyd and Vandenberghe - [PDF](https://web.stanford.edu/~boyd/cvxbook/)
 - *Convex Optimization Theory* by Dimitri P. Bertsekas - [PDF](https://web.mit.edu/dimitrib/www/Convex_Theory_Entire_Book.pdf)
 
+### **Bayesian Optimization**
+- *Bayesian Optimization In Action* by Quan Nguyen - [PDF](https://drive.google.com/drive/folders/15hWpabuvwyQVXxTRsIn6q9sTJ6JLDVS4?usp=sharing)
+- *Experimentation for Engineers* by David Sweet - [PDF](https://drive.google.com/drive/folders/15hWpabuvwyQVXxTRsIn6q9sTJ6JLDVS4?usp=sharing)
+
 ### **Operations Research**
 
 - *Operations Research An Introduction* by Hamdy A. Taha - [Pearson](https://www.pearson.com/en-us/subject-catalog/p/operations-research-an-introduction/P200000003221)
