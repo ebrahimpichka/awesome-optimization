@@ -14,6 +14,7 @@ This list tries to cover topics on discrete and combinatorial optimization, oper
     6. [Stochastic Optimization and Control](#stochastic-optimization-and-control)
 2. [**Books and Lecture Notes**](#books-and-lecture-notes)
     1. [Convex Optimization](#convex-optimization)
+    1. [Bayesian Optimization](#bayesian-optimization)
     1. [Operations Research](#operations-research)
     1. [Constraint Programming](#constraint-programming)
     1. [Combinatorial Optimization](#combinatorial-optimization)
