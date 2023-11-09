@@ -14,6 +14,7 @@ This list tries to cover topics on discrete and combinatorial optimization, oper
     6. [Stochastic Optimization and Control](#stochastic-optimization-and-control)
 2. [**Books and Lecture Notes**](#books-and-lecture-notes)
     1. [Convex Optimization](#convex-optimization)
+    1. [Bayesian Optimization](#bayesian-optimization)
     1. [Operations Research](#operations-research)
     1. [Constraint Programming](#constraint-programming)
     1. [Combinatorial Optimization](#combinatorial-optimization)
@@ -153,6 +154,10 @@ Local and global optimization. Unconstrained and constrained optimization. Solut
 ### **Convex Optimization**
 - *Convex Optimization* by Boyd and Vandenberghe - [PDF](https://web.stanford.edu/~boyd/cvxbook/)
 - *Convex Optimization Theory* by Dimitri P. Bertsekas - [PDF](https://web.mit.edu/dimitrib/www/Convex_Theory_Entire_Book.pdf)
+
+### **Bayesian Optimization**
+- *Bayesian Optimization In Action* by Quan Nguyen - [Amazon](https://www.amazon.com/Bayesian-Optimization-Action-Quan-Nguyen/dp/1633439070)
+- *Experimentation for Engineers* by David Sweet - [Amazon](https://www.amazon.com/Tuning-Up-testing-Bayesian-optimization/dp/1617298158)
 
 ### **Operations Research**
 
