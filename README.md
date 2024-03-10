@@ -28,8 +28,10 @@ This list tries to cover vast topics in math. opt. i.e. discrete and combinatori
     2. [Free Solvers](#free-solvers)
     3. [Tools and Libraries](#tools-and-libraries)
 4. [**Other Resources**](#other-resources)
-    1. [Repositories](#repositories)
-    2. [Conferences](#conferences)    
+    1. [Communities and Forums](#communities-and-forums)
+    2. [Events, Societies, and Conferences]
+    3. [Code Repositories](#code-repositories)
+    (#events-societies-and-conferences)    
 5. [**Contribution Guidelines**](#contribution-guidelines)
 
 
@@ -179,15 +181,15 @@ Local and global optimization. Unconstrained and constrained optimization. Solut
 
 ## **Books and Lecture notes**
 
-### **Convex Optimization**
+### Convex Optimization
 - *Convex Optimization* by Boyd and Vandenberghe - [PDF](https://web.stanford.edu/~boyd/cvxbook/)
 - *Convex Optimization Theory* by Dimitri P. Bertsekas - [PDF](https://web.mit.edu/dimitrib/www/Convex_Theory_Entire_Book.pdf)
 
-### **Bayesian Optimization**
+### Bayesian Optimization
 - *Bayesian Optimization In Action* by Quan Nguyen - [Amazon](https://www.amazon.com/Bayesian-Optimization-Action-Quan-Nguyen/dp/1633439070)
 - *Experimentation for Engineers* by David Sweet - [Amazon](https://www.amazon.com/Tuning-Up-testing-Bayesian-optimization/dp/1617298158)
 
-### **Operations Research**
+### Operations Research
 
 - *Operations Research An Introduction* by Hamdy A. Taha - [Pearson](https://www.pearson.com/en-us/subject-catalog/p/operations-research-an-introduction/P200000003221)
 - *Introduction to Operations Research* by Frederick Hillier and Gerald Lieberman - [McGraw Hill](https://www.mheducation.com/highered/product/introduction-operations-research-hillier-lieberman/M9781259872990.html)
@@ -198,7 +200,7 @@ Local and global optimization. Unconstrained and constrained optimization. Solut
 - *Algorithms for Optimization* by Mykel J. Kochenderfer and Tim A. Wheeler - [PDF](https://algorithmsbook.com/optimization/files/optimization.pdf)
 - *Model Building in Mathematical Programming* - Introductory modeling book by H. Paul Williams - [Wiley]((https://www.wiley.com/en-ie/Model+Building+in+Mathematical+Programming,+5th+Edition-p-9781118443330))
 
-### **Meta-heuristics**
+### Meta-heuristics
 
 - *Metaheuristics* by Patrick Siarry - [Springer (open access)](https://link.springer.com/book/10.1007/978-3-319-45403-0)
 
@@ -215,7 +217,7 @@ Local and global optimization. Unconstrained and constrained optimization. Solut
 - *Metaheuristics: from design to implementation* by El-Ghazali Talbi - [Wiley](https://www.wiley.com/en-us/Metaheuristics%3A+From+Design+to+Implementation+-p-9780470278581#:~:text=Description,-A%20unified%20view&text=This%20book%20provides%20a%20complete,design%2C%20routing%2C%20and%20scheduling.)
 
 
-### **Dynamic Programming and Reinforcement Learning**
+### Dynamic Programming and Reinforcement Learning
 
 - Various tiltes on *Dynamic Programming, Optimal Control and Reinforcement Learning* by Dimitri Bertsekas. - [List](http://www.athenasc.com/index.html)
 
@@ -225,29 +227,29 @@ Local and global optimization. Unconstrained and constrained optimization. Solut
 
 - *Algorithms for Decision Making* by Mykel J. Kochenderfer, Tim A. Wheeler, and Kyle H. Wray - [PDF](https://algorithmsbook.com/files/dm.pdf)
 
-### **Constraint Programming**
+### Constraint Programming
 
 - *Handbook of Constraint Programming* by Francesca Rossi, Peter van Beek and Toby Walsh - [Amazon](https://www.amazon.com/dp/0444527265)
 
 - *A Tutorial on Constraint Programming* by Barbara M. Smith (University of Leeds) - [PDF](https://www.dcs.gla.ac.uk/~pat/cpM/papers/95_14.pdf)
 
-### **Combinatorial Optimization**
+### Combinatorial Optimization
 - *Combinatorial Optimization: Algorithms and Complexity* by by Christos H. Papadimitriou and Kenneth Steiglitz - [Amazon](https://www.amazon.com/Combinatorial-Optimization-Algorithms-Complexity-Computer-ebook/dp/B00C8UQZAO)
 - *Combinatorial Optimization: Theory and Algorithms* by Bernhard Korte and Jens Vygen - [Springer](https://link.springer.com/book/10.1007/978-3-662-56039-6)
 - *A First Course in Combinatorial Optimization* by Jon Lee - [Amazon](https://www.amazon.com/Combinatorial-Optimization-Cambridge-Applied-Mathematics/dp/0521010128)
 
-### **Stochastic Optimization**
+### Stochastic Optimization
 
 - *Lectures on Stochastic Programming Modeling and Theory* (SIAM) - by  Shapiro, Dentcheva, and Ruszczynski - [PDF](https://bpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/4/1470/files/2021/03/SPbook.pdf)
 - *Introductory Lectures on Stochastic Optimization* by John C. Duchi - [PDF](https://web.stanford.edu/~jduchi/PCMIConvex/Duchi16.pdf)
 
 Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/books.htm)
 
-## Solvers, Tools, and Libraries
+## **Solvers, Tools, and Libraries**
 
-### **Solvers**
+### Solvers
 
-#### **Licensed/Commercial Solvers**
+#### Licensed/Commercial Solvers
 
 - [CPLEX](https://www.ibm.com/analytics/cplex-optimizer) - IBM
 - [Gurobi](https://www.gurobi.com/) - Gurobi
@@ -257,7 +259,7 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 - [Mosek](https://www.mosek.com/) - Mosek
 - [Concorde](http://www.math.uwaterloo.ca/tsp/concorde.html) - UWaterloo
 
-#### **Free Solvers**
+#### Free Solvers
 
 - [CBC](https://projects.coin-or.org/Cbc) - COIN-OR Branch and Cut
 - [GLPK](https://www.gnu.org/software/glpk/) - GNU Linear Programming Kit
@@ -265,11 +267,11 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 - [lp_solve](http://lpsolve.sourceforge.net/) - (Mixed Integer) Linear Programming solver
 - [SCIP](https://www.scipopt.org/) - Solving Constraint Integer Programs
 
-#### **Benchmarks**
+#### Benchmarks
 
 - [Hans Mittelmann's Benchmarks](https://plato.asu.edu/bench.html)
 
-### **Tools and Libraries**
+### Tools and Libraries
 
 - [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools)
 - [**COIN-OR**](https://www.coin-or.org/) | [repository](https://github.com/coin-or/)
@@ -281,9 +283,28 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 - [**PuLP**](https://coin-or.github.io/pulp/) - Open source modeling library for **Python**.
 - [**Scipy Optimize**](https://docs.scipy.org/doc/scipy/tutorial/optimize.html)
 
+
 ## **Other Resources**
 
-### Repositories
+### Communities and Forums
+- [**OR Stack exchange**](https://or.stackexchange.com/)
+    - [Related question to this repo](https://or.stackexchange.com/questions/869/what-are-good-reference-books-for-introduction-to-operations-research)
+- [**Subreddit on OR (r/Operations Research)**](https://www.reddit.com/r/OperationsResearch/)
+- [**OR Discord server**](https://discord.gg/ubz3DMeWJm)
+- [**Discrete Optimization Talks (DOTs) Discord server**](https://discord.gg/fV47SKT)
+- **Google OR tools** [Discord](https://groups.google.com/forum/#!forum/or-tools-discuss) and [Discussion forum](https://discord.gg/ENkQrdf)
+
+### Events, Societies, and Conferences
+- [**Mathematical Optimization Society**](https://www.mathopt.org/) - international organization dedicated to the promotion and the maintenance of high professional standards in the subject of mathematical optimization.
+- [**Mixed Integer Programming Society**](https://www.mixedinteger.org/)
+- [**INFORMS**](https://www.informs.org/) - Institute for Operations Research and the Management Sciences.
+- [**Discrete Optimization Talks (DOTs)**](https://talks.discreteopt.com/) - virtual seminar series.
+- [**CPAIOR**](https://cpaior.org/) - Integration of Constraint Programming, Artificial Intelligence, and Operations Research.
+- [**CP Conference**](https://www.a4cp.org/events/cp-conference-series) - Principles and Practice of Constraint Programming.
+- [**CORS**](https://www.cors.ca/?q=content/cors-annual-conferences) - Canadian Operational Research Society
+
+
+### Code Repositories
 - [Open Optimization](https://github.com/open-optimization):\
 a platform for sharing and collaborating on open educational resources for optimization related courses.
 - [Introduction to Linear Programming with Python](https://github.com/benalexkeen/Introduction-to-linear-programming):\
@@ -306,14 +327,6 @@ Advanced evolutionary computation library built directly on top of PyTorch, crea
 efficient library for differentiable optimization built upon PyTorch.
 
 
-### Conferences
-- [**CPAIOR**](https://cpaior.org/) - Integration of Constraint Programming, Artificial Intelligence, and Operations Research.
-- [**CP Conference**](https://www.a4cp.org/events/cp-conference-series) - Principles and Practice of Constraint Programming.
-- [**INFORMS**](https://www.informs.org/) - Institute for Operations Research and the Management Sciences.
-- [**CORS**](https://www.cors.ca/?q=content/cors-annual-conferences) - Canadian Operational Research Society
-
-
-
 ## **Contribution Guidelines**
 
 We welcome contributions to this repository. If you have a course or resource that you'd like to add, please follow these guidelines:
@@ -325,7 +338,7 @@ Thank you for your contributions to making this repository a valuable resource f
 
 ### TODO
 
-1. **add missing topics** *
+1. **add missing topics**
     - numerical optimization/methods
     - bayesian optimization
 2. add github repos
@@ -334,4 +347,3 @@ Thank you for your contributions to making this repository a valuable resource f
 5. better fomatting
     - tables instead of bullets
     
-https://or.stackexchange.com/questions/869/what-are-good-reference-books-for-introduction-to-operations-research
