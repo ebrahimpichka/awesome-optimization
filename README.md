@@ -1,24 +1,28 @@
 # Awesome Optimization Courses
 
-Welcome to the "Awesome Optimization Courses" repository! This is a curated list of (mostly) free and open educational resources for mathematical optimization.
+Welcome to the "Awesome Optimization" repository! This repository contains a curated list of (mostly) free and open educational resources for mathematical optimization.
 
-This list tries to cover topics on discrete and combinatorial optimization, operations research, linear and nonlinear programming, integer programming, constraint programming, convex optimization, continuous optimization, or unconstrained optimization, you'll find valuable resources here to enhance your understanding of these subjects.
+This list tries to cover vast topics in math. opt. i.e. discrete and combinatorial optimization, operations research, linear and nonlinear programming, integer programming, constraint programming, convex optimization, continuous optimization, or unconstrained optimization. You'll find valuable resources here to enhance your understanding of these subjects.
 
 ## Table of Contents
 1. [**Video Lectures and Courses**](#video-lectures-and-courses)
     1. [Convex Optimization](#convex-optimization)
     2. [Discrete, Combinatorial, and Integer Optimization](#discrete-combinatorial-and-integer-optimization)
     3. [Operations Research](#operations-research)
-    4. [Constraint Programming](#constraint-programming)
-    5. [Continuous Optimization](#continuous-optimization)
-    6. [Stochastic Optimization and Control](#stochastic-optimization-and-control)
+    4. [Meta-heuristics](#meta-heuristics)
+    5. [Dynamic Programming and Reinforcement Learning](#dynamic-programming-and-reinforcement-learning)
+    6. [Constraint Programming](#constraint-programming)
+    7. [Continuous Optimization](#continuous-optimization)
+    8. [Stochastic Optimization and Control](#stochastic-optimization-and-control)
 2. [**Books and Lecture Notes**](#books-and-lecture-notes)
     1. [Convex Optimization](#convex-optimization)
-    1. [Bayesian Optimization](#bayesian-optimization)
-    1. [Operations Research](#operations-research)
-    1. [Constraint Programming](#constraint-programming)
-    1. [Combinatorial Optimization](#combinatorial-optimization)
-    1. [Stochastic Optimization](#stochastic-optimization)
+    2. [Bayesian Optimization](#bayesian-optimization)
+    3. [Operations Research](#operations-research)
+    4. [Meta-heuristics](#meta-heuristics)
+    5. [Dynamic Programming and Reinforcement Learning](#dynamic-programming-and-reinforcement-learning)
+    6. [Constraint Programming](#constraint-programming)
+    7. [Combinatorial Optimization](#combinatorial-optimization)
+    8. [Stochastic Optimization](#stochastic-optimization)
 3. [**Solvers, Tools, and Libraries**](#solvers-tools-and-libraries)
     1. [Licensed/Commercial Solvers](#licensedcommercial-solvers)
     2. [Free Solvers](#free-solvers)
@@ -105,6 +109,30 @@ Continuation of Convex Optimization I. Subgradient, cutting-plane, and ellipsoid
     - [OR I (YouTube)](https://www.youtube.com/@coverCell/playlists?view=50&shelf_id=2)
     - [OR II (YouTube)](https://www.youtube.com/@coverCell/playlists?view=50&shelf_id=1)
 
+### Meta-heuristics
+
+- [**Metaheuristics Graduate Course**](https://youtu.be/bOM-M2yXdpc?si=kKNmZRu1zMNAcUJa) - by Helena Ramalhinho Lourenço - Universitat Pompeu Fabra
+
+- [**Evolutionary Computation for Single and Multi-Objective Optimization**](https://youtube.com/playlist?list=PLwdnzlV3ogoWyi7exLIe26JhueiVQXq_S&si=2xEfIXFWbUIpXDN8) - by Deepak Sharma - NPTEL IIT Guwahati
+
+- [**Introduction to Metaheuristics**](https://youtube.com/playlist?list=PLN4kTzLXGGgWNf4CDyoZZOsjOCftW5ej6&si=R7Bbc9o8CRNh5wGn) - by Luis R. Izquierdo
+
+- [**CPAIOR 2020 Master Class: Metaheuristics**](https://youtu.be/4x8YrqJ2spo?si=cSmwGCShlaMNbdpF)
+
+### Dynamic Programming and Reinforcement Learning
+
+- [**Dynamic Programming Lectures**](https://youtube.com/playlist?list=PLmH30BG15SIqgS8N1TLhSQV1jwiB7ufxI&si=cP1pgbZ-uVUuczL3) by Dimitri Bertsekas
+
+- [**UC Berkeley CS 285: Deep Reinforcement Learning - Fall 2022**](https://youtube.com/playlist?list=PL_iWQOsE6TfX7MaC6C3HcdOf1g337dlC9&si=Pr6zVj-XMcrw67cU)
+    - [Course website](https://rail.eecs.berkeley.edu/deeprlcourse/)
+    - [Fall 2021 version](https://youtube.com/playlist?list=PL_iWQOsE6TfXxKgI1GgyV1B_Xa0DxE5eH&si=fcMsOQPKcKlhM0lM)
+
+- [**Stanford CS234: Reinforcement Learning — Winter 2019**](https://youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&si=q6aWPR1Ad9P4llbO) - by [Emma Brunskill](https://cs.stanford.edu/people/ebrun/)
+    - [Course website](https://web.stanford.edu/class/cs234/index.html)
+
+- [**Reinforcement/Deep Learning Lecture Series 2021**](https://youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm&si=2GbhHsHsFRLtQC1o) - by DeepMind x UCL
+    - [2018 version](https://youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb&si=X05Z8ANwCF9EraDi)
+
 
 ### Constraint Programming
 
@@ -170,9 +198,38 @@ Local and global optimization. Unconstrained and constrained optimization. Solut
 - *Algorithms for Optimization* by Mykel J. Kochenderfer and Tim A. Wheeler - [PDF](https://algorithmsbook.com/optimization/files/optimization.pdf)
 - *Model Building in Mathematical Programming* - Introductory modeling book by H. Paul Williams - [Wiley]((https://www.wiley.com/en-ie/Model+Building+in+Mathematical+Programming,+5th+Edition-p-9781118443330))
 
+### **Meta-heuristics**
+
+- *Metaheuristics* by Patrick Siarry - [Springer (open access)](https://link.springer.com/book/10.1007/978-3-319-45403-0)
+
+- *Essentials of Metaheuristics* by Sean Luke - [link](https://cs.gmu.edu/~sean/book/metaheuristics/)
+
+- *Handbook of Metaheuristics* by Michel Gendreau and Jean-Yves Potvin - [Springer (open access)](https://link.springer.com/book/10.1007/978-1-4419-1665-5)
+
+- *An Introduction to Metaheuristics for Optimization* by Bastien Chopard , Marco Tomassini - [Springer (open access)](https://link.springer.com/book/10.1007/978-3-319-93073-2)
+
+- *Metaheuristic and Evolutionary Computation: Algorithms and Applications* by Hasmat Malik, Atif Iqbal, Puneet Joshi, Sanjay Agrawal, and Farhad Ilahi Bakhsh - [Springer (open access)](https://link.springer.com/book/10.1007/978-981-15-7571-6)
+
+- *Clever Algorithms: Nature-Inspired Programming Recipes* by Jason Brownlee - [GitHub](https://github.com/clever-algorithms/CleverAlgorithms)
+
+- *Metaheuristics: from design to implementation* by El-Ghazali Talbi - [Wiley](https://www.wiley.com/en-us/Metaheuristics%3A+From+Design+to+Implementation+-p-9780470278581#:~:text=Description,-A%20unified%20view&text=This%20book%20provides%20a%20complete,design%2C%20routing%2C%20and%20scheduling.)
+
+
+### **Dynamic Programming and Reinforcement Learning**
+
+- Various tiltes on *Dynamic Programming, Optimal Control and Reinforcement Learning* by Dimitri Bertsekas. - [List](http://www.athenasc.com/index.html)
+
+- *Reinforcement Learning: An Introduction (2nd Edition)* by Richard Sutton and Andrew Barto - [PDF](http://incompleteideas.net/book/RLbook2020.pdf)
+
+- *Decision Making Under Uncertainty: Theory and Application* by Mykel J. Kochenderfer - [PDF](https://web.stanford.edu/group/sisl/public/dmu.pdf)
+
+- *Algorithms for Decision Making* by Mykel J. Kochenderfer, Tim A. Wheeler, and Kyle H. Wray - [PDF](https://algorithmsbook.com/files/dm.pdf)
+
 ### **Constraint Programming**
 
-- *Handbook of Constraint Programming* by F. Rossi, Peter van Beek and Toby Walsh - [Amazon](https://www.amazon.com/dp/0444527265)
+- *Handbook of Constraint Programming* by Francesca Rossi, Peter van Beek and Toby Walsh - [Amazon](https://www.amazon.com/dp/0444527265)
+
+- *A Tutorial on Constraint Programming* by Barbara M. Smith (University of Leeds) - [PDF](https://www.dcs.gla.ac.uk/~pat/cpM/papers/95_14.pdf)
 
 ### **Combinatorial Optimization**
 - *Combinatorial Optimization: Algorithms and Complexity* by by Christos H. Papadimitriou and Kenneth Steiglitz - [Amazon](https://www.amazon.com/Combinatorial-Optimization-Algorithms-Complexity-Computer-ebook/dp/B00C8UQZAO)
@@ -266,17 +323,15 @@ We welcome contributions to this repository. If you have a course or resource th
 
 Thank you for your contributions to making this repository a valuable resource for optimization enthusiasts in the academic community!
 
-
 ### TODO
 
 1. **add missing topics** *
     - numerical optimization/methods
     - bayesian optimization
-    - meta-heuristics
-2. add books and lecture notes
-    - open access books (at least one for each topic)
-3. add github repos
-4. complete solver/software list
-5. add short description
-6. better fomatting
+2. add github repos
+3. complete solver/software list
+4. add short description
+5. better fomatting
     - tables instead of bullets
+    
+https://or.stackexchange.com/questions/869/what-are-good-reference-books-for-introduction-to-operations-research
