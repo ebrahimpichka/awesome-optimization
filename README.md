@@ -29,9 +29,8 @@ This list tries to cover vast topics in math. opt. i.e. discrete and combinatori
     3. [Tools and Libraries](#tools-and-libraries)
 4. [**Other Resources**](#other-resources)
     1. [Communities and Forums](#communities-and-forums)
-    2. [Events, Societies, and Conferences]
-    3. [Code Repositories](#code-repositories)
-    (#events-societies-and-conferences)    
+    2. [Events, Societies, and Conferences](#events-societies-and-conferences)
+    3. [Code Repositories](#code-repositories)  
 5. [**Contribution Guidelines**](#contribution-guidelines)
 
 
