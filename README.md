@@ -265,6 +265,7 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 - [HiGHS](https://highs.dev/) - High Performance Software for Linear Optimization
 - [lp_solve](http://lpsolve.sourceforge.net/) - (Mixed Integer) Linear Programming solver
 - [SCIP](https://www.scipopt.org/) - Solving Constraint Integer Programs
+- [DIDP](https://didp.ai) - Domain-Independent Dyanmic Programming
 
 #### Benchmarks
 
