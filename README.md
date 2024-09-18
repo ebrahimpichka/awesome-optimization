@@ -303,7 +303,7 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 - [**CPAIOR**](https://cpaior.org/) - Integration of Constraint Programming, Artificial Intelligence, and Operations Research.
 - [**CP Conference**](https://www.a4cp.org/events/cp-conference-series) - Principles and Practice of Constraint Programming.
 - [**CORS**](https://www.cors.ca/?q=content/cors-annual-conferences) - Canadian Operational Research Society
-
+- [**CO@Work**](https://co-at-work.zib.de/) - Optimization course with a focus on computational aspects, industrial applications and networking (2024, 2020, 2015, 2009, 2005)
 
 ### Code Repositories
 - [Open Optimization](https://github.com/open-optimization):\
