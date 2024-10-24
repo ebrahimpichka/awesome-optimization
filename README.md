@@ -250,6 +250,7 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 #### Licensed/Commercial Solvers
 
+- [BARON](https://minlp.com/baron-solver) - The Optimization Firm
 - [CPLEX](https://www.ibm.com/analytics/cplex-optimizer) - IBM
 - [Gurobi](https://www.gurobi.com/) - Gurobi
 - [FICO Xpress](https://www.fico.com/en/products/fico-xpress-optimization) - FICO
