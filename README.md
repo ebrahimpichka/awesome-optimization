@@ -4,6 +4,13 @@ Welcome to the "Awesome Optimization" repository! This repository contains a cur
 
 This list tries to cover vast topics in math. opt. i.e. discrete and combinatorial optimization, operations research, linear and nonlinear programming, integer programming, constraint programming, convex optimization, continuous optimization, or unconstrained optimization. You'll find valuable resources here to enhance your understanding of these subjects.
 
+
+<div align="center">
+
+<a href="https://pichka.notion.site/Optimization-e851635437934a8eaad479d84593d3a4" target="_blank"> <img src="https://simpleicons.vercel.app/notion/000000" alt="Notion icon" width="20" height="20"/> </a> [**Notion** version](https://pichka.notion.site/Optimization-e851635437934a8eaad479d84593d3a4) 
+
+</div>
+
 ## Table of Contents
 1. [**Video Lectures and Courses**](#video-lectures-and-courses)
     1. [Convex Optimization](#convex-optimization)
