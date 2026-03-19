@@ -273,7 +273,7 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 - [HiGHS](https://highs.dev/) - High Performance Software for Linear Optimization
 - [lp_solve](http://lpsolve.sourceforge.net/) - (Mixed Integer) Linear Programming solver
 - [SCIP](https://www.scipopt.org/) - Solving Constraint Integer Programs
-- [DIDP](https://didp.ai) - Domain-Independent Dyanmic Programming
+- [DIDP](https://didp.ai) - Domain-Independent Dynamic Programming
 
 #### Benchmarks
 
@@ -287,6 +287,7 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 - [**GAMS**](https://www.gams.com/) - High-level modeling system.
 - [**AMPL**](https://www.ampl.com/) - Algebraic modeling language, both linear/integer and constraint programming.
 - [**JuMP**](https://jump.dev/) - Open source modeling language for **Julia**.
+- [**OpEn**](https://alphaville.github.io/optimization-engine/) - Code generation for embedded nonconvex optimization; written in **Rust** with interfaces in **Python**, **C/C++**, and other languages/frameworks.
 - [**Pyomo**](http://www.pyomo.org/) - Open source modeling library for **Python**.
 - [**PuLP**](https://coin-or.github.io/pulp/) - Open source modeling library for **Python**.
 - [**PyOptInterface**](https://github.com/metab0t/PyOptInterface) - Efficient modeling interface for mathematical optimization in **Python**.
