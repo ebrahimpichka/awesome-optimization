@@ -335,7 +335,8 @@ Bayesian optimization in PyTorch
 Advanced evolutionary computation library built directly on top of PyTorch, created at NNAISENSE.
 - [TorchOpt](https://github.com/metaopt/torchopt):\
 efficient library for differentiable optimization built upon PyTorch.
-
+- [qqa](https://github.com/Yuma-Ichikawa/QQA4CO):\
+GPU-parallel **Quasi-Quantum Annealing** toolkit for QUBO and Ising combinatorial optimisation in PyTorch, with PI-GNN / CPRA neural backends, a Simulated Annealing baseline, a 17-class problem catalogue and a Streamlit dashboard. Released on PyPI as `qqa`.
 
 ## **Contribution Guidelines**
 
