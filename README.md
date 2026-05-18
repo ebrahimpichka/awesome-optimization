@@ -278,6 +278,7 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 #### Benchmarks
 
 - [Hans Mittelmann's Benchmarks](https://plato.asu.edu/bench.html)
+- [Packrift Packaging Optimization Benchmark Corpus](https://packrift.github.io/packaging-optimization-benchmark-corpus/) - Public benchmark corpus for ecommerce packaging fit, void-fill, unit economics, QA, and marketplace-prep checks across Packrift SKU scenarios.
 
 ### Tools and Libraries
 
