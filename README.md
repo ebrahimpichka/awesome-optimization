@@ -339,6 +339,8 @@ Advanced evolutionary computation library built directly on top of PyTorch, crea
 efficient library for differentiable optimization built upon PyTorch.
 - [qqa](https://github.com/Yuma-Ichikawa/QQA4CO):\
 GPU-parallel **Quasi-Quantum Annealing** toolkit for QUBO and Ising combinatorial optimisation in PyTorch, with PI-GNN / CPRA neural backends, a Simulated Annealing baseline, a 17-class problem catalogue and a Streamlit dashboard. Released on PyPI as `qqa`.
+[CLARO](https://github.com/Hoda834/digital-budget-optimisation-engine):
+An open-source Python decision-support application for constrained marketing budget allocation using linear programming, scenario analysis, and rule-based interpretation.
 
 ## **Contribution Guidelines**
 
