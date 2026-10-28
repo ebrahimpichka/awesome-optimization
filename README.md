@@ -293,6 +293,7 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 - [**OpEn**](https://alphaville.github.io/optimization-engine/) - Code generation for embedded nonconvex optimization; written in **Rust** with interfaces in **Python**, **C/C++**, and other languages/frameworks.
 - [**Pyomo**](http://www.pyomo.org/) - Open source modeling library for **Python**.
 - [**PuLP**](https://coin-or.github.io/pulp/) - Open source modeling library for **Python**.
+- [**odys**](https://github.com/ramirocrc/odys) - Stochastic scheduling of energy asset portfolios across electricity markets in **Python**.
 - [**PyOptInterface**](https://github.com/metab0t/PyOptInterface) - Efficient modeling interface for mathematical optimization in **Python**.
 - [**Scipy Optimize**](https://docs.scipy.org/doc/scipy/tutorial/optimize.html)
 - [**jeans**](https://github.com/cmccomb/jeans) - Genetic and multi-objective optimization algorithms in **Rust**.
