@@ -265,6 +265,7 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 - [Knitro](https://www.artelys.com/solvers/knitro/)  - Artelys
 - [Mosek](https://www.mosek.com/) - Mosek
 - [Concorde](http://www.math.uwaterloo.ca/tsp/concorde.html) - UWaterloo
+- [Kardinal](https://kardinal.ai/) - Kardinal (vehicle routing problem solver, available as an API)
 
 #### Free Solvers
 
