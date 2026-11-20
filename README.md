@@ -297,6 +297,7 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 - [**Scipy Optimize**](https://docs.scipy.org/doc/scipy/tutorial/optimize.html)
 - [**jeans**](https://github.com/cmccomb/jeans) - Genetic and multi-objective optimization algorithms in **Rust**.
 - [**topopt**](https://github.com/cmccomb/topopt-rs) - Topology optimization in pure **Rust**, based on Sigmund's 99-line MATLAB implementation.
+- [**ProvenDecisions**](https://proven-decisions.ai/) - Web app that turns a typed, LaTeX, photographed or spoken problem into a **cvxpy** model, solves it with open-source solvers (HiGHS, Clarabel, SCIP), checks each answer with a dual or KKT certificate, and explains the formulation step by step. Free to try without an account.
 
 
 ## **Other Resources**
