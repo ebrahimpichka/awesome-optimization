@@ -294,6 +294,7 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 - [**Pyomo**](http://www.pyomo.org/) - Open source modeling library for **Python**.
 - [**PuLP**](https://coin-or.github.io/pulp/) - Open source modeling library for **Python**.
 - [**PyOptInterface**](https://github.com/metab0t/PyOptInterface) - Efficient modeling interface for mathematical optimization in **Python**.
+- [**Jacobian**](https://github.com/morluto/jacobian) - MCP server, CLI, and Python library for composable mathematics; exact polynomial-map, linear-algebra, and graph computations that can support optimization workflows.
 - [**Scipy Optimize**](https://docs.scipy.org/doc/scipy/tutorial/optimize.html)
 - [**jeans**](https://github.com/cmccomb/jeans) - Genetic and multi-objective optimization algorithms in **Rust**.
 - [**topopt**](https://github.com/cmccomb/topopt-rs) - Topology optimization in pure **Rust**, based on Sigmund's 99-line MATLAB implementation.
