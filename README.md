@@ -197,6 +197,7 @@ Local and global optimization. Unconstrained and constrained optimization. Solut
 
 ### Operations Research
 
+- *Optimization Results You Can Trust* by Blucca — a short SciPy/HiGHS field guide with seven executed model-review exercises (AI-authored) — [free sample PDF](https://leanpub.com/optimization-results-you-can-trust/sample.pdf) — [book and companion](https://leanpub.com/optimization-results-you-can-trust)
 - *Operations Research An Introduction* by Hamdy A. Taha - [Pearson](https://www.pearson.com/en-us/subject-catalog/p/operations-research-an-introduction/P200000003221)
 - *Introduction to Operations Research* by Frederick Hillier and Gerald Lieberman - [McGraw Hill](https://www.mheducation.com/highered/product/introduction-operations-research-hillier-lieberman/M9781259872990.html)
 - *Julia Programming for Operations Research* by Changhyun Kwon - [PDF](https://juliabook.chkwon.net/book) - [code](https://github.com/chkwon/jpor_codes)
